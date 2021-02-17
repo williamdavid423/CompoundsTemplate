@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compouds", "Compouds\Compouds.csproj", "{BAF92352-0805-4A93-BCE0-26BAE24E3B25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compounds", "Compouds\Compounds.csproj", "{BAF92352-0805-4A93-BCE0-26BAE24E3B25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

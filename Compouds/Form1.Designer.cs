@@ -1,5 +1,5 @@
 ﻿
-namespace Compouds
+namespace Compounds
 {
     partial class Form1
     {
